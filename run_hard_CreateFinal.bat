@@ -1,0 +1,2 @@
+python 024_SOL_hardAdder.py
+Pause
